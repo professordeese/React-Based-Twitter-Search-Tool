@@ -1,0 +1,16 @@
+{
+  "name": "project.20190514.twitter001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indexExpress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "file-reader": "^1.1.1",
+    "git": "^0.1.5"
+  }
+}
